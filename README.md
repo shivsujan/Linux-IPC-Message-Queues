@@ -174,7 +174,7 @@ return 0;
 ## OUTPUT
 
 
-![Screenshot from 2024-04-06 23-36-35](https://github.com/shivsujan/Linux-IPC-Message-Queues/assets/145633245/a3b0e54e-3886-46ef-9a3f-b42bc8f3a1ad)
+![Screenshot from 2024-04-16 10-54-05](https://github.com/shivsujan/Linux-IPC-Message-Queues/assets/145633245/31f567c0-86e7-4082-b89d-d4911133c28e)
 
 
 
